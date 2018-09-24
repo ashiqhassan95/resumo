@@ -1,0 +1,30 @@
+.simple-resume-left {
+    background: #3c474d;
+    color: #fff;
+}
+
+.simple-resume-right {
+    background: #fff;
+}
+.simple-resume-right-widget-header {
+    margin-bottom: 20px;
+}
+.simple-resume-left-widget-header {
+    margin-bottom: 15px;
+}
+
+.simple-resume-image {
+    background: #293134;
+    margin-left: -15px;
+    margin-right: -15px;
+}
+
+.simple-resume-hobbies a {
+    padding: 10px 15px;
+    color: #fff;
+    background: #3c474d;
+    margin: 5px 10px 10px 0;
+    text-decoration: none;
+    border-radius: 20%;
+}
+

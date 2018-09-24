@@ -1,0 +1,30 @@
+.resume-progress .resume-progress-bar {
+    padding: 10px;
+}
+
+.resume-progress .resume-progress-bar.completed {
+    background: skyblue;
+}
+
+.resume-progress {
+    background: #eee;
+}
+
+/*.resume-item-card {*/
+    /*border: 1px dotted #ccc;*/
+    /*padding: 5px 10px;*/
+    /*background: #f1f1f1;*/
+/*}*/
+
+/*.resume-item-card .education-item-card-header {*/
+    /*font-weight: normal;*/
+    /*font-size: 14px;*/
+/*}*/
+
+/*.resume-item-card .education-item-card-body {*/
+    /*font-size: 13px;*/
+/*}*/
+
+/*.resume-item-card .education-item-card-footer {*/
+    /*font-size: 13px;*/
+/*}*/
